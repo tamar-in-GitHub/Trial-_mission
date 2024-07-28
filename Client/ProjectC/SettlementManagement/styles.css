@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+}
+
+h1 {
+    text-align: center;
+}
+
+#controls {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#controls input {
+    margin-right: 10px;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+#pagination {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    cursor: pointer;
+}

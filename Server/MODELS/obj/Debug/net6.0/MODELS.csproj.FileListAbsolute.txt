@@ -1,0 +1,70 @@
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\ref\MODELS.dll
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\bin\Debug\net6.0\MODELS.runtimeconfig.json
+C:\Users\User\Documents\תכנות יד\Project .NET\MODELS\obj\Debug\net6.0\MODELS.genruntimeconfig.cache
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\bin\Debug\net6.0\MODELS.runtimeconfig.json
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\MODELS.genruntimeconfig.cache
+C:\Users\1\Desktop\תכנות\Project-.NET\MODELS\obj\Debug\net6.0\ref\MODELS.dll
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\bin\Debug\net6.0\MODELS.runtimeconfig.json
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\MODELS.genruntimeconfig.cache
+C:\Users\User\Documents\‏‏Project .NET\.NetProject\MODELS\obj\Debug\net6.0\ref\MODELS.dll
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\bin\Debug\net6.0\MODELS.runtimeconfig.json
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\MODELS.genruntimeconfig.cache
+C:\Users\The user\Desktop\RACHEL\Time_Bank_Project\MODELS\obj\Debug\net6.0\ref\MODELS.dll
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\bin\Debug\net6.0\MODELS.deps.json
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\bin\Debug\net6.0\MODELS.runtimeconfig.json
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\bin\Debug\net6.0\MODELS.dll
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\bin\Debug\net6.0\MODELS.pdb
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.AssemblyInfo.cs
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.dll
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\refint\MODELS.dll
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.pdb
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\MODELS.genruntimeconfig.cache
+C:\Users\The user\Desktop\Studies\SettlementManagementApp\Server\MODELS\obj\Debug\net6.0\ref\MODELS.dll

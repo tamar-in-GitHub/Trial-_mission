@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>טבלת ישובים</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>ניהול ישובים</h1>
+    <div id="controls">
+        <input type="text" id="search" placeholder="חפש ישוב...">
+        <button id="searchBtn">חפש</button>
+        <button id="addNewBtn">הוסף ישוב חדש</button>
+    </div>
+    <table id="settlementsTable">
+        <thead>
+            <tr>
+                <th>שם ישוב <button id="sortAsc">↑</button><button id="sortDesc">↓</button></th>
+                <th>עריכה</th>
+                <th>מחיקה</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- נתונים יתמלאו פה דינמית -->
+        </tbody>
+    </table>
+    <div id="pagination">
+        <button id="prevPage">← הקודם</button>
+        <span id="currentPage">עמוד 1</span>
+        <button id="nextPage">הבא →</button>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
